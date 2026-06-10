@@ -10,14 +10,13 @@ I rebuilt this project as part of my data analytics learning journey to practice
 
 Related project:
 
-sql-data-warehouse-project
-https://github.com/Naima-ouc/sql_data_warehouse_project
+[`sql-data-warehouse-project`] https://github.com/Naima-ouc/sql_data_warehouse_project
 
 ---
 
 ## Business Questions
 
-This project explore analytical questions such as:
+This project answers analytical questions such as:
 
 * How many customers, products, and orders are available in the dataset?
 * What is the overall sales performance?
@@ -173,8 +172,8 @@ sql-data-analytics-project/
 │
 ├── README.md                              # Project overview and documentation
 └── LICENSE                                # MIT License from the original project
-
 ```
+
 ---
 
 ## How to Use This Repository
