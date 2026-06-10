@@ -131,7 +131,7 @@ The Gold Layer datasets are the main basis for the analytical SQL scripts.
 
 ## Repository Structure
 
-text
+```text
 sql-data-analytics-project/
 │
 ├── datasets/                              # CSV datasets used for the analysis
@@ -174,7 +174,7 @@ sql-data-analytics-project/
 ├── README.md                              # Project overview and documentation
 └── LICENSE                                # MIT License from the original project
 
-
+```
 ---
 
 ## How to Use This Repository
