@@ -16,7 +16,7 @@ sql-data-warehouse-project
 
 ## Business Questions
 
-This project answers analytical questions such as:
+This project explore analytical questions such as:
 
 * How many customers, products, and orders are available in the dataset?
 * What is the overall sales performance?
