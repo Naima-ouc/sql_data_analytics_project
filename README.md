@@ -11,6 +11,7 @@ I rebuilt this project as part of my data analytics learning journey to practice
 Related project:
 
 sql-data-warehouse-project
+https://github.com/Naima-ouc/sql_data_warehouse_project
 
 ---
 
